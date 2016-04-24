@@ -49,45 +49,42 @@
 	width: 960px;
 	margin: 0 auto;
 	overflow: auto;
+	padding-top: 20px;
 }
 
 #main-content{
 	border: 1px solid #dddddd;
-	width: 650px;
+	width: 628px;
 	float: left;
-	padding-right: 10px;
-	margin-right: 10px;
-	margin-bottom: 20px;
 	background: #ffffff;
+	padding: 10px;
 }
 
 #about{
-	padding: 15px;
 	font-family: Georgia, Times, "Times New Roman", serif;
 	color: #4aaaa5;
+	border-bottom: 1px solid #777777;
 }
 
 #headshot{
-	width: 250px;
+	width: 225px;
 	float: left;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-bottom: 15px;
+	padding-right: 10px;
 }
 
-#bio{
+
+.bio-content{
 	font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
 	color: #777777;
 }
 
 #connect-with-me{
 	border: 1px solid #dddddd;
-	width: 270px;
-	float: left;
+	width: 248px;
+	float: right;
 	background: #ffffff;
+	padding: 10px;
 	
 }
 
-#logo-links{
 
-}
