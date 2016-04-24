@@ -142,11 +142,111 @@
 	color: white;
 	text-align: center;
 	line-height: 30px;
-
 }
 
 .contact-prompts{
 	margin-bottom: 0;
+}
+
+.portfolio-pics{
+	width: 270px;
+}
+
+#hangman{
+	width: 270px;
+	float: left;
+	height: 135px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+#rpg{
+	width: 270px;
+	float: right;
+	height: 135px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+#trivia{
+	width: 270px;
+	float: left;
+	height: 135px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+}
+
+#rutgers{
+	width: 270px;
+	float: right;
+	height: 135px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+}
+
+#rock{
+	width: 270px;
+	float: left;
+	height: 135px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+}
+
+#hang{
+	position: relative;
+	bottom: 80px;
+	width: 270px;
+	height: 40px;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
+
+#game{
+	position: relative;
+	bottom: 80px;
+	width: 270px;
+	height: 40px;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
+
+#trivia-game{
+	position: relative;
+	bottom: 80px;
+	width: 270px;
+	height: 40px;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
+
+#info-widget{
+	position: relative;
+	bottom: 80px;
+	width: 270px;
+	height: 40px;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
+
+#rock-paper{
+	position: relative;
+	bottom: 80px;
+	width: 270px;
+	height: 40px;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	line-height: 40px;
 }
 
 #foot{
