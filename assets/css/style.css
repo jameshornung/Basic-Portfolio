@@ -1,7 +1,10 @@
 #container{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
 	background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/hexellence.png);
 	overflow: auto;
-	padding: 0px;
 }
 
 #top{
@@ -11,46 +14,41 @@
 }
 
 #top-content{
-	width: 940px;
+	width: 960px;
 	margin: 0 auto;
 }
 
 #name{
+	float: left;
 	border: 1px solid #cccccc;
 	background-color: #4aaaa5;
-	width: 275px;
-	height: 100px;
-	float: left;
+	width: 30%;
+	height: 88px;
 	color: white;
 	font-family: Georgia, Times, "Times New Roman", serif;
+	padding-top: 10px;
+	text-align: center;
 }
 
 #links{
+	float: left;
 	height: 100px;
-	width: 665px;
+	width: 69%;
 	text-align: right;
-	margin-left: 275px;
 	line-height: 100px;
 }
 
-#about{
+.header-links{
+	padding: 10px;
 	font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
 	color: #777777;
-}
-
-#portfolio{
-	font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
-	color: #777777;
-}
-
-#contact{
-	font-family: Arial,"Helvetica Neue", Helvetica, sans-serif;
-	color: #777777;
+	text-decoration: none;
 }
 
 #wrapper{
 	width: 960px;
 	margin: 0 auto;
+	overflow: auto;
 }
 
 #main-content{
