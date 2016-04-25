@@ -152,6 +152,10 @@
 	width: 270px;
 }
 
+.portfolio-links{
+	display: block;
+}
+
 #hangman{
 	width: 270px;
 	float: left;
