@@ -74,7 +74,7 @@
 }
 
 #headshot{
-	width: 225px;
+	height: 200px;
 	float: left;
 	padding-right: 10px;
 }
@@ -102,46 +102,32 @@
 
 #logo-container{
 	width: 100%;
-	overflow: auto;
-}
-
-#logo-links{
-	width: 75%;
-	margin: 0 auto;
-	padding-left: 20px;
 	padding-top: 10px;
+	padding-left: 34px;
 }
 
 .logos{
 	width: 50px;
 }
 
-#name-box{
-	width: 100%;
-	height: 20px;
-	border: 1px solid #777777;
+.logo-links{
+	padding-right: 10px;
+	
 }
 
-#email-box{
-	width: 100%;
-	height: 20px;
-	border: 1px solid #777777;
+#contact-form{
+	padding: 10px;
 }
 
-#message-box{
+.input-box{
+	padding-top: 10px;
+	width: 100%;
+}
+
+#message{
 	width: 100%;
 	height: 200px;
-	border: 1px solid #777777;
 	overflow: scroll;
-}
-
-#submit-button{
-	width: 100px;
-	height: 30px;
-	background: #4aaaa5;
-	color: white;
-	text-align: center;
-	line-height: 30px;
 }
 
 .contact-prompts{
@@ -150,6 +136,12 @@
 
 .portfolio-pics{
 	width: 270px;
+}
+
+#submit-button{
+	width: 100px;
+	height: 25px;
+	margin-top: 10px;
 }
 
 .portfolio-links{
